@@ -86,8 +86,8 @@
 
         <h3>Assignments</h3>
         <ul id="assignList">
-          <li>Math worksheet: Fractions — due Nov 18, 2025.</li>
-          <li>Science: Short report on local plants — due Nov 22, 2025.</li>
+          <li>CARNIVAL-15-11-2025</li>
+          <li>Science exhibition -29-11-2025</li>
         </ul>
 
         <hr style="margin:12px 0;border:none;border-top:1px solid #f1f1f1">
@@ -106,7 +106,7 @@
             <div class="student"><div class="avatar">NK</div><div><strong>navarjun</strong><div style="font-size:13px;color:var(--muted)">Roll: 1</div></div></div>
             <div class="student"><div class="avatar">TS</div><div><strong>trisha</strong><div style="font-size:13px;color:var(--muted)">Roll: 2</div></div></div>
             <div class="student"><div class="avatar">NL</div><div><strong>nalan</strong><div style="font-size:13px;color:var(--muted)">Roll: 3</div></div></div>
-             <div class="student"><div class="avatar">KN</div><div><strong>kevin</strong><div style="font-size:13px;color:var(--muted)">Roll:4</div></div></div>
+             <div class="student"><div class="avatar">VN</div><div><strong>varun</strong><div style="font-size:13px;color:var(--muted)">Roll:4</div></div></div>
             <div class="student"><div class="avatar">MH</div><div><strong>mahith</strong><div style="font-size:13px;color:var(--muted)">Roll: 5</div></div></div>
             <div class="student"><div class="avatar">MK</div><div><strong>mokesh</strong><div style="font-size:13px;color:var(--muted)">Roll: 6</div></div></div>
           </div>
