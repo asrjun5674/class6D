@@ -103,16 +103,19 @@
         <div class="card" style="margin-bottom:14px">
           <h3 style="margin-bottom:8px">Students — 6D</h3>
           <div class="students" id="students">
-            <div class="student"><div class="avatar">AR</div><div><strong>Arjun R.</strong><div style="font-size:13px;color:var(--muted)">Roll: 1</div></div></div>
-            <div class="student"><div class="avatar">VM</div><div><strong>V. Meera</strong><div style="font-size:13px;color:var(--muted)">Roll: 2</div></div></div>
-            <div class="student"><div class="avatar">SS</div><div><strong>Sachin S.</strong><div style="font-size:13px;color:var(--muted)">Roll: 3</div></div></div>
+            <div class="student"><div class="avatar">NK</div><div><strong>navarjun</strong><div style="font-size:13px;color:var(--muted)">Roll: 1</div></div></div>
+            <div class="student"><div class="avatar">TS</div><div><strong>trisha</strong><div style="font-size:13px;color:var(--muted)">Roll: 2</div></div></div>
+            <div class="student"><div class="avatar">NL</div><div><strong>nalan</strong><div style="font-size:13px;color:var(--muted)">Roll: 3</div></div></div>
+             <div class="student"><div class="avatar">KN</div><div><strong>kevin</strong><div style="font-size:13px;color:var(--muted)">Roll:4</div></div></div>
+            <div class="student"><div class="avatar">MH</div><div><strong>mahith</strong><div style="font-size:13px;color:var(--muted)">Roll: 5</div></div></div>
+            <div class="student"><div class="avatar">MK</div><div><strong>mokesh</strong><div style="font-size:13px;color:var(--muted)">Roll: 6</div></div></div>
           </div>
 
           <form id="addStudentForm" style="margin-top:10px" onsubmit="addStudent(event)">
             <label for="sname">Student name</label>
             <input type="text" id="sname" placeholder="Full name" required>
             <label for="sroll">Roll number</label>
-            <input type="text" id="sroll" placeholder="e.g. 4" required>
+            <input type="text" id="sroll" placeholder="e.g. 7" required>
             <button type="submit">Add Student</button>
           </form>
         </div>
